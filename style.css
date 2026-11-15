@@ -86,3 +86,11 @@ nav a:hover {
 .container {
     border-radius: 10px;
 }
+
+
+.gallery-coffee {
+    width: 400px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+}
