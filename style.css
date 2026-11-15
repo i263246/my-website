@@ -62,3 +62,27 @@ button {
 button:hover {
     background-color: #3E2723;
 }
+
+
+
+nav {
+    margin: 25px 0;
+}
+
+nav a {
+    display: inline-block;
+    color: white;
+    background-color: #6F4E37;
+    padding: 10px 20px;
+    margin: 5px;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+nav a:hover {
+    background-color: #3E2723;
+}
+
+.container {
+    border-radius: 10px;
+}
