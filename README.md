@@ -32,4 +32,4 @@ ChatGPT was used for coding assistance, troubleshooting and guidance during deve
 https://github.com/i263246/my-website
 
 ## Live Website
-https://1263246.github.io/my-website/?utm_source=chatgpt.com
+https://i263246.github.io/my-website/index.html
